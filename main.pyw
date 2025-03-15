@@ -2,6 +2,8 @@ import tkinter as tk
 import random
 import platform
 
+
+# Version 2.0 - Miliseconds Added
 class FBISeizureScreen:
     def __init__(self, root):
         self.root = root
